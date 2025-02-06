@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "579051887787",
+    "project_id": "attorney-e5f09",
+    "storage_bucket": "attorney-e5f09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579051887787:android:47b3a3c28faa5c8b356bee",
+        "android_client_info": {
+          "package_name": "com.attorneyOfficial.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579051887787-ji36kba17srq9i7bfq3k9pv6k87i4f9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXEm55dZ6LolnkmhdBCDSsZlIaUqCeaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579051887787-ji36kba17srq9i7bfq3k9pv6k87i4f9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "579051887787-4va0bekvhq6lldbksrrjvrbbledkqihi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.attorney.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
