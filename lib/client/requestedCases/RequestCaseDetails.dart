@@ -248,7 +248,7 @@ class Helper {
                                 color: Utility.primaryColor,
                                 borderRadius: BorderRadius.circular(5),
                               ),
-                              height: 55,
+                              height: 90,
                               width: MediaQuery.of(context).size.width / 2,
                               child: Text(
                                 'Payment through EasyPaisa'.toUpperCase(),
